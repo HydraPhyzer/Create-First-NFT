@@ -1,0 +1,11 @@
+{
+  "attributes": [
+    {
+      "color": "Red",
+      "value": "Some Value"
+    }
+  ],
+  "description": "This is My First Ape NFT",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZNEyAxoq55x3jZofjmCdqG1ujpYaKh8TGNhLjdkwiHqz",
+  "name": "Sad Ape"
+}
